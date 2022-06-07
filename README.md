@@ -2,10 +2,10 @@
 
 <h3> 🧑🏼&nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+- 🧑 &nbsp; Me chamo Lucas Queiroga e todo dia busco evoluir como programador
+- 🤔 &nbsp; Buscando resolver um problema novo com programação todo dia.
+- 💼 &nbsp; Trabalhando como programador fullstack na <a href="https://www.linkedin.com/school/onebitcode/">onebitcode</a>
+- 🌱 &nbsp; Aprendendo mais sobre Next, nodejs, typescript & mongoDB 
 
 <div align="center">
   <a href="https://github.com/lucasqueirogaa">
