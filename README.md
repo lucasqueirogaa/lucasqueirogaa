@@ -4,8 +4,7 @@
 
 - 🧑 &nbsp; Me chamo Lucas Queiroga e todo dia busco evoluir como programador
 - 🤔 &nbsp; Buscando resolver um problema novo com programação todo dia.
-- 💼 &nbsp; Trabalhando como programador fullstack na <a href="https://www.linkedin.com/school/onebitcode/">onebitcode</a>
-- 🌱 &nbsp; Aprendendo mais sobre Next, nodejs, typescript & mongoDB 
+- 💼 &nbsp; Trabalhando como programador backend na <a href="https://www.linkedin.com/company/ozmap/mycompany/">OZmap</a>
 
 <div align="center">
   <a href="https://github.com/lucasqueirogaa">
