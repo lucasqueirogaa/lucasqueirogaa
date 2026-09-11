@@ -28,20 +28,8 @@ CTO at **[VirexTech](https://github.com/Virex-Tech)**, a small studio in Brazil.
 
 <table align="center">
 <tr>
-<td><img src="https://raw.githubusercontent.com/lucasqueirogaa/lucasqueirogaa/main/assets/spacer.png" width="215" height="1" alt="" /></td>
-<td><img src="https://raw.githubusercontent.com/lucasqueirogaa/lucasqueirogaa/main/assets/spacer.png" width="215" height="1" alt="" /></td>
-<td><img src="https://raw.githubusercontent.com/lucasqueirogaa/lucasqueirogaa/main/assets/spacer.png" width="215" height="1" alt="" /></td>
-<td><img src="https://raw.githubusercontent.com/lucasqueirogaa/lucasqueirogaa/main/assets/spacer.png" width="215" height="1" alt="" /></td>
-</tr>
-<tr>
-<td><img src="https://raw.githubusercontent.com/lucasqueirogaa/lucasqueirogaa/main/assets/spacer.png" width="215" height="1" alt="" /></td>
-<td><img src="https://raw.githubusercontent.com/lucasqueirogaa/lucasqueirogaa/main/assets/spacer.png" width="215" height="1" alt="" /></td>
-<td><img src="https://raw.githubusercontent.com/lucasqueirogaa/lucasqueirogaa/main/assets/spacer.png" width="215" height="1" alt="" /></td>
-<td><img src="https://raw.githubusercontent.com/lucasqueirogaa/lucasqueirogaa/main/assets/spacer.png" width="215" height="1" alt="" /></td>
-</tr>
-<tr>
 <td align="center" valign="top">
-&nbsp;<br/>
+<img src="https://raw.githubusercontent.com/lucasqueirogaa/lucasqueirogaa/main/assets/spacer.png" width="215" height="1" alt="" /><br/>
 <a href="https://buildtracker.com.br"><img src="https://raw.githubusercontent.com/lucasqueirogaa/lucasqueirogaa/main/assets/logo-buildtracker.png" width="76" alt="BuildTracker" /></a>
 <br/><br/>
 <b>BuildTracker</b>
@@ -51,7 +39,7 @@ CTO at **[VirexTech](https://github.com/Virex-Tech)**, a small studio in Brazil.
 <br/>&nbsp;
 </td>
 <td align="center" valign="top">
-&nbsp;<br/>
+<img src="https://raw.githubusercontent.com/lucasqueirogaa/lucasqueirogaa/main/assets/spacer.png" width="215" height="1" alt="" /><br/>
 <a href="https://paywallo.com.br"><img src="https://raw.githubusercontent.com/lucasqueirogaa/lucasqueirogaa/main/assets/logo-paywallo.png" width="76" alt="Paywallo" /></a>
 <br/><br/>
 <b>Paywallo</b>
@@ -61,7 +49,7 @@ CTO at **[VirexTech](https://github.com/Virex-Tech)**, a small studio in Brazil.
 <br/>&nbsp;
 </td>
 <td align="center" valign="top">
-&nbsp;<br/>
+<img src="https://raw.githubusercontent.com/lucasqueirogaa/lucasqueirogaa/main/assets/spacer.png" width="215" height="1" alt="" /><br/>
 <a href="https://www.ozempro.com"><img src="https://raw.githubusercontent.com/lucasqueirogaa/lucasqueirogaa/main/assets/logo-ozempro.png" width="76" alt="OzemPro" /></a>
 <br/><br/>
 <b>OzemPro</b>
@@ -71,7 +59,7 @@ CTO at **[VirexTech](https://github.com/Virex-Tech)**, a small studio in Brazil.
 <br/>&nbsp;
 </td>
 <td align="center" valign="top">
-&nbsp;<br/>
+<img src="https://raw.githubusercontent.com/lucasqueirogaa/lucasqueirogaa/main/assets/spacer.png" width="215" height="1" alt="" /><br/>
 <a href="https://fitcalai.app"><img src="https://raw.githubusercontent.com/lucasqueirogaa/lucasqueirogaa/main/assets/logo-fitcal.png" width="76" alt="FitCal" /></a>
 <br/><br/>
 <b>FitCal</b>
