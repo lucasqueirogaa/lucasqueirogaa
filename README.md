@@ -90,5 +90,9 @@ CTO at **[VirexTech](https://github.com/Virex-Tech)**, a small studio in Brazil.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lucasqueirogaa/lucasqueirogaa/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasqueirogaa/lucasqueirogaa/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasqueirogaa/lucasqueirogaa/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/lucasqueirogaa/lucasqueirogaa/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+  </picture>
 </p>
