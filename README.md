@@ -86,10 +86,6 @@ CTO at **[VirexTech](https://github.com/Virex-Tech)**, a small studio in Brazil.
 <h3 align="center">Commits</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=lucasqueirogaa&hide_border=true&background=00000000&stroke=30363d&ring=8b5cf6&fire=8b5cf6&currStreakLabel=1f6feb&sideLabels=c9d1d9&dates=7d8590&currStreakNum=c9d1d9&sideNums=c9d1d9&excludeDaysLabel=7d8590" alt="streak" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasqueirogaa/lucasqueirogaa/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasqueirogaa/lucasqueirogaa/output/github-contribution-grid-snake.svg" />
